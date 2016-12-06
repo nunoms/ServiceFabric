@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "_1_IntroToServiceFabric", "1-IntroToServiceFabric\_1_IntroToServiceFabric.sfproj", "{00A4A0AF-CFB1-4FFB-9230-D7C858E10A97}"
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "MyServiceFabricApp", "MyServiceFabricApp\MyServiceFabricApp.sfproj", "{00A4A0AF-CFB1-4FFB-9230-D7C858E10A97}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyStatefulService", "MyStatefulService\MyStatefulService.csproj", "{52BF87C3-5E1F-4FA3-BF84-CE773AE5F5AF}"
 EndProject
